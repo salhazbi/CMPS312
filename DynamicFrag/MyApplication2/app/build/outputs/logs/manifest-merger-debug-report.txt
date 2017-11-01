@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\ce50982b522a82ae140435b346d6e88c66e83aed\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\a3e43f79492f588274bc0d654552bbd3749e36e5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\48e29b9bd2edb34382c8203ff3facfa14cac3ee0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\522c477f9ae00924557c9da4cd257d0b55e52179\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\8c2311d56992209ef841c99138821766cc0efbe7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\479707f8a2943c601fc2917463aea1603c76cca7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\8f83637c6c3aec8d394eb4e12e176707da80f999\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\8c1ae17587f7c72b3f2cfa89d4ddd0607af99dda\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\c6a4a27fc2ab490226ec068dae1ff412d561320a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] D:\Users\salhazbi\.android\build-cache\cb264384453873f9325a08f4e03db65f3756401b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:11:9-40
+activity#cmps312.staticfragment.MainActivity
+ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\ce50982b522a82ae140435b346d6e88c66e83aed\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\a3e43f79492f588274bc0d654552bbd3749e36e5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\48e29b9bd2edb34382c8203ff3facfa14cac3ee0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\522c477f9ae00924557c9da4cd257d0b55e52179\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\8c2311d56992209ef841c99138821766cc0efbe7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\479707f8a2943c601fc2917463aea1603c76cca7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\8f83637c6c3aec8d394eb4e12e176707da80f999\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\8c1ae17587f7c72b3f2cfa89d4ddd0607af99dda\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\c6a4a27fc2ab490226ec068dae1ff412d561320a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] D:\Users\salhazbi\.android\build-cache\cb264384453873f9325a08f4e03db65f3756401b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\ce50982b522a82ae140435b346d6e88c66e83aed\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Fall2017\CMPS312\MyMaterials\TheoryCode\MyApplication2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\ce50982b522a82ae140435b346d6e88c66e83aed\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\a3e43f79492f588274bc0d654552bbd3749e36e5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\48e29b9bd2edb34382c8203ff3facfa14cac3ee0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\522c477f9ae00924557c9da4cd257d0b55e52179\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\8c2311d56992209ef841c99138821766cc0efbe7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\479707f8a2943c601fc2917463aea1603c76cca7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\8f83637c6c3aec8d394eb4e12e176707da80f999\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\8c1ae17587f7c72b3f2cfa89d4ddd0607af99dda\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\c6a4a27fc2ab490226ec068dae1ff412d561320a\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\ce50982b522a82ae140435b346d6e88c66e83aed\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Users\salhazbi\.android\build-cache\ce50982b522a82ae140435b346d6e88c66e83aed\output\AndroidManifest.xml:26:9-47
