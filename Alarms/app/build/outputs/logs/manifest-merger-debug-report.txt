@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:7:22-63
+application
+ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:9:5-26:19
+	android:label
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:10:9-36
+	android:icon
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:11:9-45
+activity#qa.edu.qu.cse.cmps312.alarmcreate.AlarmCreateActivity
+ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:14:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:19:27-74
+receiver#qa.edu.qu.cse.cmps312.alarmcreate.AlarmNotificationReceiver
+ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml:23:19-60
+uses-sdk
+INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\salhazbi\lecture_examples\Alarms\app\src\main\AndroidManifest.xml

@@ -1,0 +1,21 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "qa.edu.qu.cse.cmps312.alarmcreate"
+        minSdkVersion 16
+        //changing targetSdk to > 18 will change behavior of AlarmManager.setRepeating()!
+        //See documentation of setRepeating() for details.
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
